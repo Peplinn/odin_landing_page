@@ -1,0 +1,1 @@
+This is the repository for the Landing Page project on The Odin Project. This project demonstrates my knowledge of fundamental HTML and CSS concepts.
